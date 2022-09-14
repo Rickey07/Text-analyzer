@@ -41,3 +41,9 @@
     transform: rotate(360deg);
   }
 }
+
+.ul-email {
+  list-style-type: style none;;
+  padding: 0;
+  margin: 0;
+}
